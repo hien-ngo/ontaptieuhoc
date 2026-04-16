@@ -1,0 +1,3536 @@
+{
+  "metadata": {
+    "title": "Vui Học Tiếng Việt Lớp 1 - Bộ câu hỏi",
+    "curriculum": "SGK Cánh Diều",
+    "grade": 1,
+    "total_questions": 250,
+    "version": "1.0.0",
+    "created": "2026-04-16"
+  },
+  "chapters": [
+    {
+      "id": "hoc_van_co_ban",
+      "name": "Học vần cơ bản",
+      "icon": "🔤",
+      "description": "Nhận biết chữ cái, âm, vần đơn giản",
+      "order": 1
+    },
+    {
+      "id": "hoc_van_nang_cao",
+      "name": "Học vần nâng cao",
+      "icon": "📖",
+      "description": "Vần phức tạp: ai, ay, oi, ôi, ao, au, oan, oai...",
+      "order": 2
+    },
+    {
+      "id": "chinh_ta",
+      "name": "Chính tả",
+      "icon": "✏️",
+      "description": "Phân biệt phụ âm đầu, vần, dấu thanh",
+      "order": 3
+    },
+    {
+      "id": "tu_vung",
+      "name": "Từ vựng",
+      "icon": "📚",
+      "description": "Mở rộng vốn từ theo chủ đề",
+      "order": 4
+    },
+    {
+      "id": "ngu_phap",
+      "name": "Ngữ pháp & Câu",
+      "icon": "📝",
+      "description": "Sắp xếp từ thành câu, hoàn thành câu",
+      "order": 5
+    },
+    {
+      "id": "doc_hieu",
+      "name": "Đọc hiểu",
+      "icon": "📕",
+      "description": "Đọc đoạn văn ngắn và trả lời câu hỏi",
+      "order": 6
+    },
+    {
+      "id": "on_thi_cuoi_ky",
+      "name": "Ôn thi cuối kỳ",
+      "icon": "🏆",
+      "description": "Tổng hợp tất cả dạng bài",
+      "order": 7
+    }
+  ],
+  "question_types": [
+    "dien_van",
+    "dien_chu",
+    "chon_tu_dung",
+    "phan_biet_am",
+    "sap_xep_cau",
+    "tim_tu",
+    "noi_tu_hinh",
+    "dien_dau",
+    "doc_hieu",
+    "dung_sai",
+    "hoan_thanh_cau",
+    "dem_tieng"
+  ],
+  "questions": [
+    {
+      "id": "tv1_q001",
+      "chapter": "hoc_van_co_ban",
+      "type": "dien_chu",
+      "difficulty": "easy",
+      "question": "Chọn chữ đúng: ___á (trái cây)",
+      "options": [
+        "q",
+        "c",
+        "t",
+        "k"
+      ],
+      "answer": "q",
+      "explanation": "quả = q + uả",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q002",
+      "chapter": "hoc_van_co_ban",
+      "type": "dien_chu",
+      "difficulty": "easy",
+      "question": "Chọn chữ đúng: ___ẹ (người sinh ra em)",
+      "options": [
+        "m",
+        "n",
+        "b",
+        "v"
+      ],
+      "answer": "m",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q003",
+      "chapter": "hoc_van_co_ban",
+      "type": "dien_chu",
+      "difficulty": "easy",
+      "question": "Chọn chữ đúng: ___ố (ba của em)",
+      "options": [
+        "b",
+        "d",
+        "đ",
+        "p"
+      ],
+      "answer": "b",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q004",
+      "chapter": "hoc_van_co_ban",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Chữ cái nào là nguyên âm?",
+      "options": [
+        "b",
+        "a",
+        "c",
+        "d"
+      ],
+      "answer": "a",
+      "explanation": "Nguyên âm: a, ă, â, e, ê, i, o, ô, ơ, u, ư",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q005",
+      "chapter": "hoc_van_co_ban",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Chữ cái nào là phụ âm?",
+      "options": [
+        "a",
+        "e",
+        "l",
+        "o"
+      ],
+      "answer": "l",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q006",
+      "chapter": "hoc_van_co_ban",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: c___ (loài vật có càng, sống ở biển)",
+      "options": [
+        "ua",
+        "oa",
+        "ia",
+        "ưa"
+      ],
+      "answer": "ua",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q007",
+      "chapter": "hoc_van_co_ban",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: b___ (dụng cụ cày ruộng)",
+      "options": [
+        "ưa",
+        "ua",
+        "oa",
+        "ia"
+      ],
+      "answer": "ưa",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q008",
+      "chapter": "hoc_van_co_ban",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: m___ (nước rơi từ trời xuống)",
+      "options": [
+        "ưa",
+        "ua",
+        "oa",
+        "ia"
+      ],
+      "answer": "ưa",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q009",
+      "chapter": "hoc_van_co_ban",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào có vần 'an'?",
+      "options": [
+        "bàn",
+        "bún",
+        "bên",
+        "bốn"
+      ],
+      "answer": "bàn",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q010",
+      "chapter": "hoc_van_co_ban",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào có vần 'ong'?",
+      "options": [
+        "bông",
+        "trong",
+        "bung",
+        "bang"
+      ],
+      "answer": "trong",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q011",
+      "chapter": "hoc_van_co_ban",
+      "type": "dem_tieng",
+      "difficulty": "easy",
+      "question": "Từ 'ba mẹ' có mấy tiếng?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q012",
+      "chapter": "hoc_van_co_ban",
+      "type": "dem_tieng",
+      "difficulty": "easy",
+      "question": "Từ 'ông ngoại' có mấy tiếng?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q013",
+      "chapter": "hoc_van_co_ban",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: th___ (con vật có tai dài, nhảy giỏi)",
+      "options": [
+        "ỏ",
+        "o",
+        "ô",
+        "ơ"
+      ],
+      "answer": "ỏ",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q014",
+      "chapter": "hoc_van_co_ban",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào bắt đầu bằng chữ 'h'?",
+      "options": [
+        "hoa",
+        "cua",
+        "mưa",
+        "gà"
+      ],
+      "answer": "hoa",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q015",
+      "chapter": "hoc_van_co_ban",
+      "type": "dien_chu",
+      "difficulty": "easy",
+      "question": "Chọn chữ đúng: con ___à (con vật hay gáy sáng sớm)",
+      "options": [
+        "g",
+        "c",
+        "k",
+        "h"
+      ],
+      "answer": "g",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q016",
+      "chapter": "hoc_van_co_ban",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào có vần 'am'?",
+      "options": [
+        "cam",
+        "com",
+        "cum",
+        "cem"
+      ],
+      "answer": "cam",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q017",
+      "chapter": "hoc_van_co_ban",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: l___ (đậu phộng)",
+      "options": [
+        "ạc",
+        "ac",
+        "ăc",
+        "âc"
+      ],
+      "answer": "ạc",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q018",
+      "chapter": "hoc_van_co_ban",
+      "type": "dem_tieng",
+      "difficulty": "easy",
+      "question": "Từ 'học sinh' có mấy tiếng?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q019",
+      "chapter": "hoc_van_co_ban",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Từ nào có 3 tiếng?",
+      "options": [
+        "hoa hồng",
+        "học sinh",
+        "bà ngoại em",
+        "xe đạp"
+      ],
+      "answer": "bà ngoại em",
+      "explanation": "'bà ngoại em' có 3 tiếng: bà - ngoại - em",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q020",
+      "chapter": "hoc_van_co_ban",
+      "type": "dien_chu",
+      "difficulty": "easy",
+      "question": "Chọn chữ đúng: con ___èo (con vật kêu meo meo)",
+      "options": [
+        "m",
+        "n",
+        "l",
+        "b"
+      ],
+      "answer": "m",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q021",
+      "chapter": "hoc_van_co_ban",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: tr___ (sáng trên trời ban đêm)",
+      "options": [
+        "ăng",
+        "ang",
+        "âng",
+        "ung"
+      ],
+      "answer": "ăng",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q022",
+      "chapter": "hoc_van_co_ban",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Chữ cái nào đứng sau chữ 'b' trong bảng chữ cái?",
+      "options": [
+        "a",
+        "c",
+        "d",
+        "đ"
+      ],
+      "answer": "c",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q023",
+      "chapter": "hoc_van_co_ban",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: s___ (dòng nước chảy ra biển)",
+      "options": [
+        "ông",
+        "ong",
+        "ung",
+        "ăng"
+      ],
+      "answer": "ông",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q024",
+      "chapter": "hoc_van_co_ban",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào kết thúc bằng 'n'?",
+      "options": [
+        "bàn",
+        "bát",
+        "bắp",
+        "bạc"
+      ],
+      "answer": "bàn",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q025",
+      "chapter": "hoc_van_co_ban",
+      "type": "dien_chu",
+      "difficulty": "easy",
+      "question": "Chọn chữ đúng: con ___ịt (con vật biết bơi, kêu cạp cạp)",
+      "options": [
+        "v",
+        "d",
+        "gi",
+        "r"
+      ],
+      "answer": "v",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q026",
+      "chapter": "hoc_van_co_ban",
+      "type": "dem_tieng",
+      "difficulty": "medium",
+      "question": "Câu 'Em đi học' có mấy tiếng?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv1_q027",
+      "chapter": "hoc_van_co_ban",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: n___ (đồi cao hơn, có đá)",
+      "options": [
+        "úi",
+        "ui",
+        "ôi",
+        "ơi"
+      ],
+      "answer": "úi",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q028",
+      "chapter": "hoc_van_co_ban",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào có vần 'ăn'?",
+      "options": [
+        "ăn",
+        "ân",
+        "en",
+        "in"
+      ],
+      "answer": "ăn",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q029",
+      "chapter": "hoc_van_co_ban",
+      "type": "dien_chu",
+      "difficulty": "easy",
+      "question": "Chọn chữ đúng: quả ___am (loại quả có vị chua, giàu vitamin C)",
+      "options": [
+        "c",
+        "k",
+        "q",
+        "g"
+      ],
+      "answer": "c",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv1_q030",
+      "chapter": "hoc_van_co_ban",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Bảng chữ cái tiếng Việt có bao nhiêu chữ cái?",
+      "options": [
+        "24",
+        "26",
+        "29",
+        "30"
+      ],
+      "answer": "29",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q001",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: h___ (số đếm: một, ___)",
+      "options": [
+        "ai",
+        "ay",
+        "oi",
+        "ây"
+      ],
+      "answer": "ai",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q002",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: m___ (đám trắng bay trên trời)",
+      "options": [
+        "ây",
+        "ai",
+        "ay",
+        "oi"
+      ],
+      "answer": "ây",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q003",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào có vần 'oi'?",
+      "options": [
+        "bói",
+        "bài",
+        "bây",
+        "bui"
+      ],
+      "answer": "bói",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q004",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào có vần 'ôi'?",
+      "options": [
+        "tôi",
+        "tai",
+        "tơi",
+        "tui"
+      ],
+      "answer": "tôi",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q005",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: ng___ (vì sao sáng trên trời)",
+      "options": [
+        "ôi",
+        "oi",
+        "ơi",
+        "ui"
+      ],
+      "answer": "ôi",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q006",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: c___ (người rất ___, không thấp)",
+      "options": [
+        "ao",
+        "au",
+        "oi",
+        "eo"
+      ],
+      "answer": "ao",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q007",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào có vần 'au'?",
+      "options": [
+        "cau",
+        "cao",
+        "coi",
+        "cai"
+      ],
+      "answer": "cau",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q008",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "medium",
+      "question": "Chọn vần đúng: h___ (vui mừng, reo hò)",
+      "options": [
+        "oan",
+        "oăn",
+        "on",
+        "an"
+      ],
+      "answer": "oan",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q009",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "medium",
+      "question": "Chọn vần đúng: th___ (máy gọi điện)",
+      "options": [
+        "oai",
+        "ai",
+        "oay",
+        "oi"
+      ],
+      "answer": "oai",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv2_q010",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Tiếng nào có vần 'ươi'?",
+      "options": [
+        "mười",
+        "muối",
+        "mởi",
+        "mái"
+      ],
+      "answer": "mười",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv2_q011",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: đ___ (ban ___, trời tối)",
+      "options": [
+        "êm",
+        "em",
+        "im",
+        "ăm"
+      ],
+      "answer": "êm",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q012",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào có vần 'eo'?",
+      "options": [
+        "kéo",
+        "kêu",
+        "kiu",
+        "kou"
+      ],
+      "answer": "kéo",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q013",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "medium",
+      "question": "Chọn vần đúng: kh___ (cơ thể tốt, mạnh mẽ)",
+      "options": [
+        "oẻ",
+        "oe",
+        "oè",
+        "ỏe"
+      ],
+      "answer": "oẻ",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv2_q014",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Từ nào có vần 'ưa'?",
+      "options": [
+        "chừa",
+        "chơi",
+        "chai",
+        "cho"
+      ],
+      "answer": "chừa",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv2_q015",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: x___ (mùa ___, mùa đầu năm)",
+      "options": [
+        "uân",
+        "ân",
+        "ơn",
+        "un"
+      ],
+      "answer": "uân",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q016",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào có vần 'uy'?",
+      "options": [
+        "quy",
+        "qui",
+        "quê",
+        "quà"
+      ],
+      "answer": "quy",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q017",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "medium",
+      "question": "Chọn vần đúng: ng___ (lý do, do đâu)",
+      "options": [
+        "uyên",
+        "uên",
+        "yên",
+        "iên"
+      ],
+      "answer": "uyên",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv2_q018",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào có vần 'iêu'?",
+      "options": [
+        "nhiều",
+        "niều",
+        "nều",
+        "nâu"
+      ],
+      "answer": "nhiều",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q019",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "medium",
+      "question": "Chọn vần đúng: th___ (đi trên sông, có mái chèo)",
+      "options": [
+        "uyền",
+        "iền",
+        "ền",
+        "uền"
+      ],
+      "answer": "uyền",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv2_q020",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào có vần 'ươn'?",
+      "options": [
+        "vườn",
+        "vờn",
+        "vân",
+        "vun"
+      ],
+      "answer": "vườn",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q021",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: tr___ (bầu ___ xanh, ở trên cao)",
+      "options": [
+        "ời",
+        "ơi",
+        "ôi",
+        "oi"
+      ],
+      "answer": "ời",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q022",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Tiếng nào có vần 'uôi'?",
+      "options": [
+        "đuôi",
+        "đôi",
+        "đời",
+        "đui"
+      ],
+      "answer": "đuôi",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv2_q023",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: ch___ (buổi ___, sau buổi trưa)",
+      "options": [
+        "iều",
+        "ều",
+        "iêu",
+        "êu"
+      ],
+      "answer": "iều",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q024",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Từ nào có vần 'ương'?",
+      "options": [
+        "đường",
+        "đừng",
+        "đúng",
+        "đặng"
+      ],
+      "answer": "đường",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv2_q025",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "medium",
+      "question": "Chọn vần đúng: ng___ (loài có hai chân, biết nói)",
+      "options": [
+        "ười",
+        "ơi",
+        "ưởi",
+        "uôi"
+      ],
+      "answer": "ười",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv2_q026",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào có vần 'inh'?",
+      "options": [
+        "xinh",
+        "xanh",
+        "xoăn",
+        "xen"
+      ],
+      "answer": "xinh",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q027",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: b___ (lọ cắm hoa)",
+      "options": [
+        "ình",
+        "inh",
+        "ênh",
+        "anh"
+      ],
+      "answer": "ình",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q028",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào có vần 'anh'?",
+      "options": [
+        "tranh",
+        "trăng",
+        "trông",
+        "trong"
+      ],
+      "answer": "tranh",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q029",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "medium",
+      "question": "Chọn vần đúng: s___ (buổi ___, trời vừa lên)",
+      "options": [
+        "áng",
+        "ang",
+        "ăng",
+        "âng"
+      ],
+      "answer": "áng",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q030",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Từ nào có vần 'uynh'?",
+      "options": [
+        "huỳnh",
+        "hình",
+        "hành",
+        "huyện"
+      ],
+      "answer": "huỳnh",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv2_q031",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: đ___ (xinh ___, trông rất hay)",
+      "options": [
+        "ẹp",
+        "ep",
+        "êp",
+        "ip"
+      ],
+      "answer": "ẹp",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q032",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tiếng nào có vần 'ât'?",
+      "options": [
+        "mất",
+        "mát",
+        "mắt",
+        "một"
+      ],
+      "answer": "mất",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q033",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: th___ (giành giải nhất)",
+      "options": [
+        "ắng",
+        "ăng",
+        "âng",
+        "ang"
+      ],
+      "answer": "ắng",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv2_q034",
+      "chapter": "hoc_van_nang_cao",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Tiếng nào có vần 'uông'?",
+      "options": [
+        "chuông",
+        "chương",
+        "chông",
+        "chung"
+      ],
+      "answer": "chuông",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv2_q035",
+      "chapter": "hoc_van_nang_cao",
+      "type": "dien_van",
+      "difficulty": "medium",
+      "question": "Chọn vần đúng: kh___ (đêm ___, rất muộn)",
+      "options": [
+        "uya",
+        "ưa",
+        "ua",
+        "oa"
+      ],
+      "answer": "uya",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv3_q001",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng chính tả: ___ ời (trời)",
+      "options": [
+        "tr",
+        "ch"
+      ],
+      "answer": "tr",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q002",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng chính tả: ___ im (chim)",
+      "options": [
+        "ch",
+        "tr"
+      ],
+      "answer": "ch",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q003",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng chính tả: ___ anh (xanh)",
+      "options": [
+        "x",
+        "s"
+      ],
+      "answer": "x",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q004",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng chính tả: ___ ao (sao → ngôi sao)",
+      "options": [
+        "s",
+        "x"
+      ],
+      "answer": "s",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q005",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng chính tả: ___ i (đi)",
+      "options": [
+        "d",
+        "đ"
+      ],
+      "answer": "đ",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q006",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng chính tả: ___ ạy học (dạy)",
+      "options": [
+        "d",
+        "gi"
+      ],
+      "answer": "d",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q007",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "medium",
+      "question": "Chọn từ đúng chính tả: ___ ữa (giữa)",
+      "options": [
+        "gi",
+        "d",
+        "r"
+      ],
+      "answer": "gi",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv3_q008",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng chính tả: ___ ước (nước)",
+      "options": [
+        "n",
+        "l"
+      ],
+      "answer": "n",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q009",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng chính tả: ___ ớp học (lớp)",
+      "options": [
+        "l",
+        "n"
+      ],
+      "answer": "l",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q010",
+      "chapter": "chinh_ta",
+      "type": "dien_dau",
+      "difficulty": "medium",
+      "question": "Điền dấu thanh đúng: 'me' (mẹ - người sinh ra em)",
+      "options": [
+        "mẹ",
+        "mè",
+        "mé",
+        "mê"
+      ],
+      "answer": "mẹ",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv3_q011",
+      "chapter": "chinh_ta",
+      "type": "dien_dau",
+      "difficulty": "medium",
+      "question": "Điền dấu thanh đúng: 'bo' (bố - ba em)",
+      "options": [
+        "bố",
+        "bò",
+        "bỏ",
+        "bô"
+      ],
+      "answer": "bố",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv3_q012",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "medium",
+      "question": "Chọn từ đúng: con ___ á (con cá)",
+      "options": [
+        "c",
+        "k"
+      ],
+      "answer": "c",
+      "explanation": "c đứng trước a, ă, â, o, ô, ơ, u, ư",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv3_q013",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "medium",
+      "question": "Chọn từ đúng: ___ e (ke → kẻ vạch)",
+      "options": [
+        "k",
+        "c"
+      ],
+      "answer": "k",
+      "explanation": "k đứng trước e, ê, i",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv3_q014",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng chính tả: ___ ong (trong → ở trong)",
+      "options": [
+        "tr",
+        "ch"
+      ],
+      "answer": "tr",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q015",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng: con ___ ó (con chó)",
+      "options": [
+        "ch",
+        "tr"
+      ],
+      "answer": "ch",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q016",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "medium",
+      "question": "Chọn từ đúng: ___ ắn (ngắn)",
+      "options": [
+        "ng",
+        "ngh"
+      ],
+      "answer": "ng",
+      "explanation": "ng đứng trước a, ă, â, o, ô, ơ, u, ư. ngh đứng trước e, ê, i",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv3_q017",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "medium",
+      "question": "Chọn từ đúng: ___ỉ ngơi (nghỉ)",
+      "options": [
+        "ngh",
+        "ng"
+      ],
+      "answer": "ngh",
+      "explanation": "ngh đứng trước e, ê, i",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv3_q018",
+      "chapter": "chinh_ta",
+      "type": "dien_dau",
+      "difficulty": "easy",
+      "question": "Từ nào viết đúng chính tả?",
+      "options": [
+        "trường",
+        "chường",
+        "jường",
+        "gường"
+      ],
+      "answer": "trường",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q019",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng: ___ ép (xếp → sắp xếp)",
+      "options": [
+        "x",
+        "s"
+      ],
+      "answer": "x",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q020",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng: ___ ạch (sạch → sạch sẽ)",
+      "options": [
+        "s",
+        "x"
+      ],
+      "answer": "s",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q021",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "medium",
+      "question": "Chọn từ đúng: ___ ê (ghế → cái ghế)",
+      "options": [
+        "gh",
+        "g"
+      ],
+      "answer": "gh",
+      "explanation": "gh đứng trước e, ê, i",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv3_q022",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "medium",
+      "question": "Chọn từ đúng: ___ à (gà → con gà)",
+      "options": [
+        "g",
+        "gh"
+      ],
+      "answer": "g",
+      "explanation": "g đứng trước a, ă, â, o, ô, ơ, u, ư",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv3_q023",
+      "chapter": "chinh_ta",
+      "type": "dien_dau",
+      "difficulty": "medium",
+      "question": "Từ nào viết đúng?",
+      "options": [
+        "quả",
+        "qủa",
+        "quá",
+        "quà"
+      ],
+      "answer": "quả",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv3_q024",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "hard",
+      "question": "Điền vào chỗ trống: Cây ___ừa rất cao (dừa)",
+      "options": [
+        "d",
+        "gi",
+        "r"
+      ],
+      "answer": "d",
+      "tags": [
+        "van_dung"
+      ]
+    },
+    {
+      "id": "tv3_q025",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "hard",
+      "question": "Điền vào chỗ trống: Em ___ở cửa cho mẹ (mở)",
+      "options": [
+        "m",
+        "n"
+      ],
+      "answer": "m",
+      "tags": [
+        "van_dung"
+      ]
+    },
+    {
+      "id": "tv3_q026",
+      "chapter": "chinh_ta",
+      "type": "dien_dau",
+      "difficulty": "medium",
+      "question": "Chọn từ viết đúng chính tả:",
+      "options": [
+        "cái kéo",
+        "cái kío",
+        "cái keo",
+        "cái kếo"
+      ],
+      "answer": "cái kéo",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv3_q027",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng: ___ oa (hoa → bông hoa)",
+      "options": [
+        "h",
+        "kh"
+      ],
+      "answer": "h",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q028",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng: ___ oẻ (khoẻ)",
+      "options": [
+        "kh",
+        "h"
+      ],
+      "answer": "kh",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q029",
+      "chapter": "chinh_ta",
+      "type": "dien_dau",
+      "difficulty": "easy",
+      "question": "Từ nào viết đúng chính tả?",
+      "options": [
+        "chăm chỉ",
+        "trăm chỉ",
+        "chăm trỉ",
+        "trăm trỉ"
+      ],
+      "answer": "chăm chỉ",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q030",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "hard",
+      "question": "Chọn từ đúng: Con ___ươu đi trong rừng (hươu)",
+      "options": [
+        "h",
+        "kh",
+        "g",
+        "gh"
+      ],
+      "answer": "h",
+      "tags": [
+        "van_dung"
+      ]
+    },
+    {
+      "id": "tv3_q031",
+      "chapter": "chinh_ta",
+      "type": "dien_dau",
+      "difficulty": "medium",
+      "question": "Chọn từ viết đúng:",
+      "options": [
+        "quê hương",
+        "kuê hương",
+        "quê hướng",
+        "qê hương"
+      ],
+      "answer": "quê hương",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv3_q032",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "medium",
+      "question": "Chọn từ đúng: ___ ung (trung → trung thực)",
+      "options": [
+        "tr",
+        "ch"
+      ],
+      "answer": "tr",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv3_q033",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng: ___ a (cha → cha mẹ)",
+      "options": [
+        "ch",
+        "tr"
+      ],
+      "answer": "ch",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv3_q034",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "medium",
+      "question": "Chọn từ đúng: ___ ẻ (rẻ → rẻ tiền)",
+      "options": [
+        "r",
+        "d",
+        "gi"
+      ],
+      "answer": "r",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv3_q035",
+      "chapter": "chinh_ta",
+      "type": "phan_biet_am",
+      "difficulty": "medium",
+      "question": "Chọn từ đúng: ___ ỗi (mỗi → mỗi ngày)",
+      "options": [
+        "m",
+        "n"
+      ],
+      "answer": "m",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv4_q001",
+      "chapter": "tu_vung",
+      "type": "noi_tu_hinh",
+      "difficulty": "easy",
+      "question": "Con vật nào kêu 'gâu gâu'?",
+      "options": [
+        "con mèo",
+        "con chó",
+        "con gà",
+        "con vịt"
+      ],
+      "answer": "con chó",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q002",
+      "chapter": "tu_vung",
+      "type": "noi_tu_hinh",
+      "difficulty": "easy",
+      "question": "Con vật nào kêu 'meo meo'?",
+      "options": [
+        "con chó",
+        "con mèo",
+        "con bò",
+        "con dê"
+      ],
+      "answer": "con mèo",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q003",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Từ nào chỉ người trong gia đình?",
+      "options": [
+        "ông nội",
+        "bàn ghế",
+        "sách vở",
+        "cây cối"
+      ],
+      "answer": "ông nội",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q004",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Từ nào chỉ đồ dùng học tập?",
+      "options": [
+        "bút chì",
+        "con mèo",
+        "bông hoa",
+        "ngôi sao"
+      ],
+      "answer": "bút chì",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q005",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Từ nào chỉ con vật?",
+      "options": [
+        "cái bàn",
+        "quyển sách",
+        "con cá",
+        "bông hoa"
+      ],
+      "answer": "con cá",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q006",
+      "chapter": "tu_vung",
+      "type": "tim_tu",
+      "difficulty": "medium",
+      "question": "Từ nào KHÔNG phải con vật?",
+      "options": [
+        "con trâu",
+        "con sông",
+        "con gà",
+        "con bò"
+      ],
+      "answer": "con sông",
+      "explanation": "'con sông' chỉ dòng nước, không phải con vật",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv4_q007",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Từ nào chỉ hoa quả?",
+      "options": [
+        "quả cam",
+        "con cá",
+        "cái bàn",
+        "ngôi nhà"
+      ],
+      "answer": "quả cam",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q008",
+      "chapter": "tu_vung",
+      "type": "tim_tu",
+      "difficulty": "medium",
+      "question": "Từ nào KHÔNG phải đồ dùng học tập?",
+      "options": [
+        "bút",
+        "thước",
+        "vở",
+        "nồi"
+      ],
+      "answer": "nồi",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv4_q009",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Từ nào chỉ màu sắc?",
+      "options": [
+        "xanh",
+        "to",
+        "nhỏ",
+        "cao"
+      ],
+      "answer": "xanh",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q010",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Từ nào chỉ hành động?",
+      "options": [
+        "chạy",
+        "đỏ",
+        "to",
+        "nhà"
+      ],
+      "answer": "chạy",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv4_q011",
+      "chapter": "tu_vung",
+      "type": "noi_tu_hinh",
+      "difficulty": "easy",
+      "question": "Quả nào có màu vàng?",
+      "options": [
+        "quả chuối",
+        "quả nho",
+        "quả dưa hấu",
+        "quả mận"
+      ],
+      "answer": "quả chuối",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q012",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Từ nào trái nghĩa với 'to'?",
+      "options": [
+        "nhỏ",
+        "cao",
+        "dài",
+        "nặng"
+      ],
+      "answer": "nhỏ",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv4_q013",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Từ nào trái nghĩa với 'dài'?",
+      "options": [
+        "ngắn",
+        "cao",
+        "to",
+        "nhẹ"
+      ],
+      "answer": "ngắn",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv4_q014",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Từ nào trái nghĩa với 'đẹp'?",
+      "options": [
+        "xấu",
+        "tốt",
+        "giỏi",
+        "nhỏ"
+      ],
+      "answer": "xấu",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv4_q015",
+      "chapter": "tu_vung",
+      "type": "tim_tu",
+      "difficulty": "medium",
+      "question": "Từ nào cùng nhóm với 'bàn, ghế, tủ'?",
+      "options": [
+        "giường",
+        "gà",
+        "cam",
+        "sách"
+      ],
+      "answer": "giường",
+      "explanation": "Đều là đồ vật/nội thất",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv4_q016",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Mùa nào thời tiết nóng nhất?",
+      "options": [
+        "mùa hè",
+        "mùa đông",
+        "mùa xuân",
+        "mùa thu"
+      ],
+      "answer": "mùa hè",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q017",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Từ nào chỉ phương tiện giao thông?",
+      "options": [
+        "xe đạp",
+        "con mèo",
+        "cái bàn",
+        "bông hoa"
+      ],
+      "answer": "xe đạp",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q018",
+      "chapter": "tu_vung",
+      "type": "tim_tu",
+      "difficulty": "hard",
+      "question": "Từ nào KHÔNG cùng nhóm?",
+      "options": [
+        "cam",
+        "bưởi",
+        "chuối",
+        "cà rốt"
+      ],
+      "answer": "cà rốt",
+      "explanation": "Cà rốt là rau củ, còn lại là hoa quả",
+      "tags": [
+        "van_dung"
+      ]
+    },
+    {
+      "id": "tv4_q019",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Bộ phận nào của cơ thể dùng để nhìn?",
+      "options": [
+        "mắt",
+        "tai",
+        "mũi",
+        "miệng"
+      ],
+      "answer": "mắt",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q020",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Bộ phận nào dùng để nghe?",
+      "options": [
+        "mắt",
+        "tai",
+        "mũi",
+        "tay"
+      ],
+      "answer": "tai",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q021",
+      "chapter": "tu_vung",
+      "type": "tim_tu",
+      "difficulty": "medium",
+      "question": "Từ nào chỉ nghề nghiệp?",
+      "options": [
+        "bác sĩ",
+        "bệnh viện",
+        "thuốc",
+        "kim tiêm"
+      ],
+      "answer": "bác sĩ",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv4_q022",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Từ nào chỉ thời tiết?",
+      "options": [
+        "mưa",
+        "sông",
+        "biển",
+        "núi"
+      ],
+      "answer": "mưa",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv4_q023",
+      "chapter": "tu_vung",
+      "type": "noi_tu_hinh",
+      "difficulty": "easy",
+      "question": "Con vật nào sống dưới nước?",
+      "options": [
+        "con cá",
+        "con gà",
+        "con mèo",
+        "con chim"
+      ],
+      "answer": "con cá",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q024",
+      "chapter": "tu_vung",
+      "type": "noi_tu_hinh",
+      "difficulty": "easy",
+      "question": "Con vật nào biết bay?",
+      "options": [
+        "con chim",
+        "con cá",
+        "con chó",
+        "con trâu"
+      ],
+      "answer": "con chim",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q025",
+      "chapter": "tu_vung",
+      "type": "tim_tu",
+      "difficulty": "hard",
+      "question": "Tìm từ chỉ đặc điểm trong câu: 'Bông hoa đỏ rất đẹp'",
+      "options": [
+        "đỏ",
+        "hoa",
+        "bông",
+        "rất"
+      ],
+      "answer": "đỏ",
+      "tags": [
+        "van_dung"
+      ]
+    },
+    {
+      "id": "tv4_q026",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Từ nào chỉ nơi chốn?",
+      "options": [
+        "trường học",
+        "chạy nhảy",
+        "vui vẻ",
+        "to lớn"
+      ],
+      "answer": "trường học",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q027",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Từ nào trái nghĩa với 'nóng'?",
+      "options": [
+        "lạnh",
+        "ấm",
+        "mát",
+        "khô"
+      ],
+      "answer": "lạnh",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv4_q028",
+      "chapter": "tu_vung",
+      "type": "noi_tu_hinh",
+      "difficulty": "easy",
+      "question": "Ai dạy em ở trường?",
+      "options": [
+        "thầy/cô giáo",
+        "bác sĩ",
+        "chú công an",
+        "anh bộ đội"
+      ],
+      "answer": "thầy/cô giáo",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv4_q029",
+      "chapter": "tu_vung",
+      "type": "tim_tu",
+      "difficulty": "medium",
+      "question": "Từ nào cùng nhóm với 'đỏ, vàng, xanh'?",
+      "options": [
+        "tím",
+        "to",
+        "nhanh",
+        "vui"
+      ],
+      "answer": "tím",
+      "explanation": "Đều là từ chỉ màu sắc",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv4_q030",
+      "chapter": "tu_vung",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Tháng nào có Tết Nguyên Đán?",
+      "options": [
+        "tháng 1 âm lịch",
+        "tháng 5",
+        "tháng 9",
+        "tháng 12"
+      ],
+      "answer": "tháng 1 âm lịch",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv5_q001",
+      "chapter": "ngu_phap",
+      "type": "sap_xep_cau",
+      "difficulty": "easy",
+      "question": "Sắp xếp thành câu đúng: đi / Em / học",
+      "options": [
+        "Em đi học",
+        "Đi em học",
+        "Học em đi",
+        "Đi học em"
+      ],
+      "answer": "Em đi học",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv5_q002",
+      "chapter": "ngu_phap",
+      "type": "sap_xep_cau",
+      "difficulty": "easy",
+      "question": "Sắp xếp thành câu đúng: đẹp / Hoa / rất",
+      "options": [
+        "Hoa rất đẹp",
+        "Đẹp rất hoa",
+        "Rất đẹp hoa",
+        "Hoa đẹp rất"
+      ],
+      "answer": "Hoa rất đẹp",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv5_q003",
+      "chapter": "ngu_phap",
+      "type": "sap_xep_cau",
+      "difficulty": "medium",
+      "question": "Sắp xếp thành câu đúng: trong / chơi / sân / Các bạn",
+      "options": [
+        "Các bạn chơi trong sân",
+        "Trong sân các bạn chơi",
+        "Chơi các bạn trong sân",
+        "Sân trong các bạn chơi"
+      ],
+      "answer": "Các bạn chơi trong sân",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv5_q004",
+      "chapter": "ngu_phap",
+      "type": "hoan_thanh_cau",
+      "difficulty": "easy",
+      "question": "Điền từ: Em ___ mẹ lắm (yêu / ăn)",
+      "options": [
+        "yêu",
+        "ăn"
+      ],
+      "answer": "yêu",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv5_q005",
+      "chapter": "ngu_phap",
+      "type": "hoan_thanh_cau",
+      "difficulty": "easy",
+      "question": "Điền từ: Bé ___ sữa mỗi sáng (uống / đọc)",
+      "options": [
+        "uống",
+        "đọc"
+      ],
+      "answer": "uống",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv5_q006",
+      "chapter": "ngu_phap",
+      "type": "sap_xep_cau",
+      "difficulty": "medium",
+      "question": "Sắp xếp thành câu đúng: Con mèo / trên / nằm / ghế",
+      "options": [
+        "Con mèo nằm trên ghế",
+        "Trên ghế con mèo nằm",
+        "Nằm con mèo trên ghế",
+        "Ghế trên nằm con mèo"
+      ],
+      "answer": "Con mèo nằm trên ghế",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv5_q007",
+      "chapter": "ngu_phap",
+      "type": "hoan_thanh_cau",
+      "difficulty": "medium",
+      "question": "Điền từ: Bầu trời hôm nay rất ___ (xanh / chạy)",
+      "options": [
+        "xanh",
+        "chạy"
+      ],
+      "answer": "xanh",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv5_q008",
+      "chapter": "ngu_phap",
+      "type": "sap_xep_cau",
+      "difficulty": "easy",
+      "question": "Sắp xếp thành câu đúng: ăn cơm / Bé / ngoan",
+      "options": [
+        "Bé ăn cơm ngoan",
+        "Ăn cơm bé ngoan",
+        "Ngoan bé ăn cơm",
+        "Cơm ăn bé ngoan"
+      ],
+      "answer": "Bé ăn cơm ngoan",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv5_q009",
+      "chapter": "ngu_phap",
+      "type": "hoan_thanh_cau",
+      "difficulty": "medium",
+      "question": "Điền từ: Mẹ ___ cơm cho cả nhà (nấu / viết)",
+      "options": [
+        "nấu",
+        "viết"
+      ],
+      "answer": "nấu",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv5_q010",
+      "chapter": "ngu_phap",
+      "type": "sap_xep_cau",
+      "difficulty": "medium",
+      "question": "Sắp xếp thành câu đúng: cho bé / Bà / kể chuyện",
+      "options": [
+        "Bà kể chuyện cho bé",
+        "Cho bé bà kể chuyện",
+        "Kể chuyện bà cho bé",
+        "Bé cho bà kể chuyện"
+      ],
+      "answer": "Bà kể chuyện cho bé",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv5_q011",
+      "chapter": "ngu_phap",
+      "type": "hoan_thanh_cau",
+      "difficulty": "easy",
+      "question": "Điền từ: Con ___ bơi dưới ao (cá / chim)",
+      "options": [
+        "cá",
+        "chim"
+      ],
+      "answer": "cá",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv5_q012",
+      "chapter": "ngu_phap",
+      "type": "sap_xep_cau",
+      "difficulty": "hard",
+      "question": "Sắp xếp thành câu đúng: sáng nay / đến trường / Em / đi bộ",
+      "options": [
+        "Sáng nay em đi bộ đến trường",
+        "Em đi bộ sáng nay đến trường",
+        "Đến trường em đi bộ sáng nay",
+        "Đi bộ em sáng nay đến trường"
+      ],
+      "answer": "Sáng nay em đi bộ đến trường",
+      "tags": [
+        "van_dung"
+      ]
+    },
+    {
+      "id": "tv5_q013",
+      "chapter": "ngu_phap",
+      "type": "hoan_thanh_cau",
+      "difficulty": "medium",
+      "question": "Điền từ: Trời ___ rồi, em đi ngủ thôi (tối / sáng)",
+      "options": [
+        "tối",
+        "sáng"
+      ],
+      "answer": "tối",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv5_q014",
+      "chapter": "ngu_phap",
+      "type": "dung_sai",
+      "difficulty": "medium",
+      "question": "Câu nào đúng?",
+      "options": [
+        "Em chăm chỉ học bài",
+        "Em chăm bài học chỉ",
+        "Chỉ em chăm bài học",
+        "Học bài chăm em chỉ"
+      ],
+      "answer": "Em chăm chỉ học bài",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv5_q015",
+      "chapter": "ngu_phap",
+      "type": "hoan_thanh_cau",
+      "difficulty": "hard",
+      "question": "Điền từ thích hợp: Mùa xuân, hoa ___ nở rất đẹp (đào / tuyết)",
+      "options": [
+        "đào",
+        "tuyết"
+      ],
+      "answer": "đào",
+      "tags": [
+        "van_dung"
+      ]
+    },
+    {
+      "id": "tv5_q016",
+      "chapter": "ngu_phap",
+      "type": "sap_xep_cau",
+      "difficulty": "easy",
+      "question": "Sắp xếp: đọc sách / Em / thích",
+      "options": [
+        "Em thích đọc sách",
+        "Đọc sách em thích",
+        "Thích em đọc sách",
+        "Sách đọc em thích"
+      ],
+      "answer": "Em thích đọc sách",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv5_q017",
+      "chapter": "ngu_phap",
+      "type": "hoan_thanh_cau",
+      "difficulty": "easy",
+      "question": "Điền từ: Bố em là ___ (bác sĩ / cái bàn)",
+      "options": [
+        "bác sĩ",
+        "cái bàn"
+      ],
+      "answer": "bác sĩ",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv5_q018",
+      "chapter": "ngu_phap",
+      "type": "sap_xep_cau",
+      "difficulty": "medium",
+      "question": "Sắp xếp: rất / Trời / đẹp / hôm nay",
+      "options": [
+        "Trời đẹp rất hôm nay",
+        "Hôm nay trời rất đẹp",
+        "Rất đẹp trời hôm nay",
+        "Đẹp rất trời hôm nay"
+      ],
+      "answer": "Hôm nay trời rất đẹp",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv5_q019",
+      "chapter": "ngu_phap",
+      "type": "dung_sai",
+      "difficulty": "easy",
+      "question": "Câu nào viết đúng?",
+      "options": [
+        "Con chim hót trên cành",
+        "Con chim cành trên hót",
+        "Trên hót con chim cành",
+        "Cành trên con chim hót"
+      ],
+      "answer": "Con chim hót trên cành",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv5_q020",
+      "chapter": "ngu_phap",
+      "type": "hoan_thanh_cau",
+      "difficulty": "hard",
+      "question": "Điền từ: Em bé ___ khi được mẹ ôm (cười / khóc / ngủ)",
+      "options": [
+        "cười",
+        "khóc",
+        "ngủ"
+      ],
+      "answer": "cười",
+      "tags": [
+        "van_dung"
+      ]
+    },
+    {
+      "id": "tv5_q021",
+      "chapter": "ngu_phap",
+      "type": "sap_xep_cau",
+      "difficulty": "easy",
+      "question": "Sắp xếp: vui / rất / Em",
+      "options": [
+        "Em rất vui",
+        "Vui rất em",
+        "Rất em vui",
+        "Em vui rất"
+      ],
+      "answer": "Em rất vui",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv5_q022",
+      "chapter": "ngu_phap",
+      "type": "hoan_thanh_cau",
+      "difficulty": "medium",
+      "question": "Điền từ: Anh ___ em gái qua đường (dắt / ném)",
+      "options": [
+        "dắt",
+        "ném"
+      ],
+      "answer": "dắt",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv5_q023",
+      "chapter": "ngu_phap",
+      "type": "sap_xep_cau",
+      "difficulty": "hard",
+      "question": "Sắp xếp: vẽ / bức tranh / Em / một / rất đẹp",
+      "options": [
+        "Em vẽ một bức tranh rất đẹp",
+        "Một bức tranh em vẽ rất đẹp",
+        "Rất đẹp em vẽ một bức tranh",
+        "Vẽ em một bức tranh rất đẹp"
+      ],
+      "answer": "Em vẽ một bức tranh rất đẹp",
+      "tags": [
+        "van_dung"
+      ]
+    },
+    {
+      "id": "tv5_q024",
+      "chapter": "ngu_phap",
+      "type": "dung_sai",
+      "difficulty": "medium",
+      "question": "Câu nào đúng ngữ pháp?",
+      "options": [
+        "Mẹ em nấu cơm rất ngon",
+        "Nấu cơm mẹ em rất ngon",
+        "Rất ngon mẹ em nấu cơm",
+        "Cơm nấu mẹ em rất ngon"
+      ],
+      "answer": "Mẹ em nấu cơm rất ngon",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv5_q025",
+      "chapter": "ngu_phap",
+      "type": "hoan_thanh_cau",
+      "difficulty": "easy",
+      "question": "Điền từ: Con ___ bay trên trời (chim / cá)",
+      "options": [
+        "chim",
+        "cá"
+      ],
+      "answer": "chim",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv6_q001",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "medium",
+      "question": "Đọc: 'Bé Lan rất chăm học. Sáng nào bé cũng dậy sớm đi học. Bé luôn làm bài đầy đủ.' → Bé Lan có tính cách gì?",
+      "options": [
+        "chăm học",
+        "lười biếng",
+        "nghịch ngợm",
+        "hay khóc"
+      ],
+      "answer": "chăm học",
+      "tags": [
+        "thong_hieu",
+        "exam_hk2"
+      ]
+    },
+    {
+      "id": "tv6_q002",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "medium",
+      "question": "Đọc: 'Bé Lan rất chăm học. Sáng nào bé cũng dậy sớm đi học. Bé luôn làm bài đầy đủ.' → Sáng nào bé Lan cũng làm gì?",
+      "options": [
+        "dậy sớm đi học",
+        "ngủ nướng",
+        "xem phim",
+        "chơi game"
+      ],
+      "answer": "dậy sớm đi học",
+      "tags": [
+        "thong_hieu",
+        "exam_hk2"
+      ]
+    },
+    {
+      "id": "tv6_q003",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "medium",
+      "question": "Đọc: 'Con mèo nhà em có bộ lông trắng muốt. Nó thích nằm sưởi nắng trước hiên nhà. Mỗi khi em về, nó chạy ra mừng.' → Con mèo có bộ lông màu gì?",
+      "options": [
+        "trắng",
+        "đen",
+        "vàng",
+        "xám"
+      ],
+      "answer": "trắng",
+      "tags": [
+        "nhan_biet",
+        "exam_hk2"
+      ]
+    },
+    {
+      "id": "tv6_q004",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "medium",
+      "question": "Đọc: 'Con mèo nhà em có bộ lông trắng muốt. Nó thích nằm sưởi nắng trước hiên nhà. Mỗi khi em về, nó chạy ra mừng.' → Con mèo thích làm gì?",
+      "options": [
+        "nằm sưởi nắng",
+        "bắt chuột",
+        "leo cây",
+        "bơi lội"
+      ],
+      "answer": "nằm sưởi nắng",
+      "tags": [
+        "thong_hieu",
+        "exam_hk2"
+      ]
+    },
+    {
+      "id": "tv6_q005",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "hard",
+      "question": "Đọc: 'Con mèo nhà em có bộ lông trắng muốt. Nó thích nằm sưởi nắng trước hiên nhà. Mỗi khi em về, nó chạy ra mừng.' → Con mèo có tình cảm gì với chủ?",
+      "options": [
+        "yêu quý chủ",
+        "sợ chủ",
+        "ghét chủ",
+        "không quan tâm"
+      ],
+      "answer": "yêu quý chủ",
+      "explanation": "Vì mỗi khi em về, nó chạy ra mừng → thể hiện tình cảm yêu quý",
+      "tags": [
+        "van_dung",
+        "exam_hk2"
+      ]
+    },
+    {
+      "id": "tv6_q006",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "medium",
+      "question": "Đọc: 'Mùa xuân đến, hoa đào nở hồng rực. Chim chóc hót líu lo trên cành. Trời ấm áp, mọi người đi chơi xuân.' → Mùa xuân, hoa gì nở?",
+      "options": [
+        "hoa đào",
+        "hoa sen",
+        "hoa cúc",
+        "hoa mai"
+      ],
+      "answer": "hoa đào",
+      "tags": [
+        "nhan_biet",
+        "exam_hk2"
+      ]
+    },
+    {
+      "id": "tv6_q007",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "medium",
+      "question": "Đọc: 'Mùa xuân đến, hoa đào nở hồng rực. Chim chóc hót líu lo trên cành. Trời ấm áp, mọi người đi chơi xuân.' → Thời tiết mùa xuân thế nào?",
+      "options": [
+        "ấm áp",
+        "lạnh giá",
+        "nóng bức",
+        "mưa to"
+      ],
+      "answer": "ấm áp",
+      "tags": [
+        "thong_hieu",
+        "exam_hk2"
+      ]
+    },
+    {
+      "id": "tv6_q008",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "medium",
+      "question": "Đọc: 'Dê Con ở nhà một mình. Có tiếng gõ cửa. Chó Sói giả giọng mẹ Dê: Mẹ về rồi, mở cửa đi con! Dê Con nhìn qua khe cửa, thấy không phải mẹ.' → Ai gõ cửa nhà Dê Con?",
+      "options": [
+        "Chó Sói",
+        "Mẹ Dê",
+        "Thỏ",
+        "Gấu"
+      ],
+      "answer": "Chó Sói",
+      "tags": [
+        "nhan_biet",
+        "exam_hk2"
+      ]
+    },
+    {
+      "id": "tv6_q009",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "hard",
+      "question": "Đọc: 'Dê Con ở nhà một mình. Có tiếng gõ cửa. Chó Sói giả giọng mẹ Dê: Mẹ về rồi, mở cửa đi con! Dê Con nhìn qua khe cửa, thấy không phải mẹ.' → Dê Con có thông minh không? Vì sao?",
+      "options": [
+        "Có, vì biết nhìn qua khe cửa kiểm tra",
+        "Không, vì mở cửa cho Sói",
+        "Có, vì kêu to gọi mẹ",
+        "Không, vì sợ hãi bỏ chạy"
+      ],
+      "answer": "Có, vì biết nhìn qua khe cửa kiểm tra",
+      "tags": [
+        "van_dung",
+        "exam_hk2"
+      ]
+    },
+    {
+      "id": "tv6_q010",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "easy",
+      "question": "Đọc: 'Em là học sinh lớp Một. Em học ở trường Tiểu học Hoa Sen. Em rất yêu trường em.' → Em học lớp mấy?",
+      "options": [
+        "lớp Một",
+        "lớp Hai",
+        "lớp Ba",
+        "lớp Bốn"
+      ],
+      "answer": "lớp Một",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv6_q011",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "easy",
+      "question": "Đọc: 'Em là học sinh lớp Một. Em học ở trường Tiểu học Hoa Sen. Em rất yêu trường em.' → Trường của em tên gì?",
+      "options": [
+        "Hoa Sen",
+        "Hoa Hồng",
+        "Hoa Mai",
+        "Hoa Lan"
+      ],
+      "answer": "Hoa Sen",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv6_q012",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "medium",
+      "question": "Đọc: 'Bố mẹ em làm ruộng. Mỗi sáng, bố mẹ ra đồng rất sớm. Tối về, bố mẹ mệt nhưng vẫn dạy em học bài.' → Bố mẹ em làm nghề gì?",
+      "options": [
+        "làm ruộng",
+        "bác sĩ",
+        "giáo viên",
+        "công nhân"
+      ],
+      "answer": "làm ruộng",
+      "tags": [
+        "nhan_biet",
+        "exam_hk2"
+      ]
+    },
+    {
+      "id": "tv6_q013",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "hard",
+      "question": "Đọc: 'Bố mẹ em làm ruộng. Mỗi sáng, bố mẹ ra đồng rất sớm. Tối về, bố mẹ mệt nhưng vẫn dạy em học bài.' → Bố mẹ em là người thế nào?",
+      "options": [
+        "yêu thương con, chịu khó",
+        "lười biếng",
+        "hay đi chơi",
+        "không quan tâm con"
+      ],
+      "answer": "yêu thương con, chịu khó",
+      "explanation": "Dù mệt nhưng vẫn dạy con học → yêu thương, chịu khó",
+      "tags": [
+        "van_dung",
+        "exam_hk2"
+      ]
+    },
+    {
+      "id": "tv6_q014",
+      "chapter": "doc_hieu",
+      "type": "dem_tieng",
+      "difficulty": "medium",
+      "question": "Đếm: Câu 'Mẹ em đi chợ' có mấy tiếng?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv6_q015",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "medium",
+      "question": "Đọc: 'Con gà trống có bộ lông sặc sỡ. Mỗi sáng, nó gáy rất to để đánh thức mọi người.' → Con gà trống gáy khi nào?",
+      "options": [
+        "mỗi sáng",
+        "mỗi tối",
+        "buổi trưa",
+        "ban đêm"
+      ],
+      "answer": "mỗi sáng",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv6_q016",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "medium",
+      "question": "Đọc: 'Con gà trống có bộ lông sặc sỡ. Mỗi sáng, nó gáy rất to để đánh thức mọi người.' → Bộ lông con gà trống thế nào?",
+      "options": [
+        "sặc sỡ",
+        "trắng muốt",
+        "đen tuyền",
+        "xám xịt"
+      ],
+      "answer": "sặc sỡ",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv6_q017",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "medium",
+      "question": "Đọc: 'Bé Na giúp mẹ quét nhà. Bé lau bàn ghế sạch sẽ. Mẹ khen bé ngoan.' → Bé Na làm gì giúp mẹ?",
+      "options": [
+        "quét nhà, lau bàn ghế",
+        "nấu cơm",
+        "giặt quần áo",
+        "đi chợ"
+      ],
+      "answer": "quét nhà, lau bàn ghế",
+      "tags": [
+        "thong_hieu",
+        "exam_hk2"
+      ]
+    },
+    {
+      "id": "tv6_q018",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "hard",
+      "question": "Đọc: 'Bé Na giúp mẹ quét nhà. Bé lau bàn ghế sạch sẽ. Mẹ khen bé ngoan.' → Em học được gì từ bé Na?",
+      "options": [
+        "Nên giúp đỡ bố mẹ",
+        "Nên ngủ nhiều",
+        "Nên chơi game",
+        "Nên xem tivi"
+      ],
+      "answer": "Nên giúp đỡ bố mẹ",
+      "tags": [
+        "van_dung",
+        "exam_hk2"
+      ]
+    },
+    {
+      "id": "tv6_q019",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "easy",
+      "question": "Đọc: 'Cá vàng bơi trong bể. Cá có đuôi rất đẹp.' → Cá vàng bơi ở đâu?",
+      "options": [
+        "trong bể",
+        "dưới sông",
+        "trên cạn",
+        "trên trời"
+      ],
+      "answer": "trong bể",
+      "tags": [
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv6_q020",
+      "chapter": "doc_hieu",
+      "type": "doc_hieu",
+      "difficulty": "medium",
+      "question": "Đọc: 'Ngày khai trường, em mặc áo trắng, đeo khăn quàng đỏ. Em rất vui vì được gặp lại bạn bè.' → Em vui vì điều gì?",
+      "options": [
+        "được gặp lại bạn bè",
+        "được nghỉ học",
+        "được ngủ nướng",
+        "được ở nhà"
+      ],
+      "answer": "được gặp lại bạn bè",
+      "tags": [
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv7_q001",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: h___ (đi ___, ở trường)",
+      "options": [
+        "ọc",
+        "oc",
+        "uc",
+        "ac"
+      ],
+      "answer": "ọc",
+      "tags": [
+        "exam_hk2",
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv7_q002",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng: ___rường học (trường)",
+      "options": [
+        "tr",
+        "ch"
+      ],
+      "answer": "tr",
+      "tags": [
+        "exam_hk2",
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv7_q003",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "sap_xep_cau",
+      "difficulty": "medium",
+      "question": "Sắp xếp: yêu / Em / quê hương / rất",
+      "options": [
+        "Em rất yêu quê hương",
+        "Yêu em rất quê hương",
+        "Quê hương em rất yêu",
+        "Rất yêu em quê hương"
+      ],
+      "answer": "Em rất yêu quê hương",
+      "tags": [
+        "exam_hk2",
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv7_q004",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Từ nào chỉ con vật biết bay?",
+      "options": [
+        "con bướm",
+        "con cá",
+        "con ếch",
+        "con rùa"
+      ],
+      "answer": "con bướm",
+      "tags": [
+        "exam_hk2",
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv7_q005",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "doc_hieu",
+      "difficulty": "medium",
+      "question": "Đọc: 'Ông em trồng rau trong vườn. Có rau cải, rau muống, rau ngót. Rau xanh tốt lắm.' → Ông trồng những loại rau gì?",
+      "options": [
+        "rau cải, rau muống, rau ngót",
+        "rau cải, cà chua, ớt",
+        "rau muống, bắp cải, đậu",
+        "rau ngót, bí, mướp"
+      ],
+      "answer": "rau cải, rau muống, rau ngót",
+      "tags": [
+        "exam_hk2",
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv7_q006",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "phan_biet_am",
+      "difficulty": "medium",
+      "question": "Chọn từ đúng: ___inh (xinh → xinh đẹp)",
+      "options": [
+        "x",
+        "s"
+      ],
+      "answer": "x",
+      "tags": [
+        "exam_hk2",
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv7_q007",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "hoan_thanh_cau",
+      "difficulty": "medium",
+      "question": "Điền từ: Em bé ___ ngon giấc trong nôi (ngủ / chạy)",
+      "options": [
+        "ngủ",
+        "chạy"
+      ],
+      "answer": "ngủ",
+      "tags": [
+        "exam_hk2",
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv7_q008",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "dien_van",
+      "difficulty": "medium",
+      "question": "Chọn vần đúng: th___ (yêu ___, tình cảm)",
+      "options": [
+        "ương",
+        "ưởng",
+        "ường",
+        "ang"
+      ],
+      "answer": "ương",
+      "tags": [
+        "exam_hk2",
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv7_q009",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "tim_tu",
+      "difficulty": "medium",
+      "question": "Từ nào KHÔNG chỉ người thân?",
+      "options": [
+        "bạn bè",
+        "mẹ",
+        "bố",
+        "ông"
+      ],
+      "answer": "bạn bè",
+      "tags": [
+        "exam_hk2",
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv7_q010",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "sap_xep_cau",
+      "difficulty": "hard",
+      "question": "Sắp xếp: tươi tốt / Cây / rất / trong vườn",
+      "options": [
+        "Cây trong vườn rất tươi tốt",
+        "Trong vườn cây rất tươi tốt",
+        "Rất tươi tốt cây trong vườn",
+        "Tươi tốt rất cây trong vườn"
+      ],
+      "answer": "Cây trong vườn rất tươi tốt",
+      "tags": [
+        "exam_hk2",
+        "van_dung"
+      ]
+    },
+    {
+      "id": "tv7_q011",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "doc_hieu",
+      "difficulty": "medium",
+      "question": "Đọc: 'Mỗi chiều, em cùng bạn ra sân chơi đá bóng. Em rất thích chơi đá bóng.' → Em thích chơi gì?",
+      "options": [
+        "đá bóng",
+        "cầu lông",
+        "nhảy dây",
+        "bơi lội"
+      ],
+      "answer": "đá bóng",
+      "tags": [
+        "exam_hk2",
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv7_q012",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng: ___ong (không → không có)",
+      "options": [
+        "kh",
+        "k",
+        "c",
+        "g"
+      ],
+      "answer": "kh",
+      "tags": [
+        "exam_hk2",
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv7_q013",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Từ nào trái nghĩa với 'buồn'?",
+      "options": [
+        "vui",
+        "khóc",
+        "giận",
+        "sợ"
+      ],
+      "answer": "vui",
+      "tags": [
+        "exam_hk2",
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv7_q014",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "hoan_thanh_cau",
+      "difficulty": "hard",
+      "question": "Viết câu có từ 'yêu thương': Em ___ bố mẹ em.",
+      "options": [
+        "yêu thương",
+        "ghét bỏ",
+        "quên mất",
+        "sợ hãi"
+      ],
+      "answer": "yêu thương",
+      "tags": [
+        "exam_hk2",
+        "van_dung"
+      ]
+    },
+    {
+      "id": "tv7_q015",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: b___ (người chơi cùng em)",
+      "options": [
+        "ạn",
+        "an",
+        "ăn",
+        "ân"
+      ],
+      "answer": "ạn",
+      "tags": [
+        "exam_hk2",
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv7_q016",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "dung_sai",
+      "difficulty": "medium",
+      "question": "Câu nào viết đúng?",
+      "options": [
+        "Trời hôm nay nắng đẹp",
+        "Nắng đẹp hôm nay trời",
+        "Hôm đẹp trời nay nắng",
+        "Đẹp trời hôm nắng nay"
+      ],
+      "answer": "Trời hôm nay nắng đẹp",
+      "tags": [
+        "exam_hk2",
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv7_q017",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "doc_hieu",
+      "difficulty": "hard",
+      "question": "Đọc: 'Kiến và Dế Mèn. Mùa hè, Kiến chăm chỉ tha mồi về tổ. Dế Mèn chỉ ca hát chơi bời. Mùa đông đến, Kiến có đủ thức ăn, Dế Mèn thì đói rét.' → Bài học rút ra là gì?",
+      "options": [
+        "Cần chăm chỉ, không lười biếng",
+        "Nên ca hát nhiều hơn",
+        "Mùa hè không cần làm gì",
+        "Dế Mèn thông minh hơn Kiến"
+      ],
+      "answer": "Cần chăm chỉ, không lười biếng",
+      "tags": [
+        "exam_hk2",
+        "van_dung"
+      ]
+    },
+    {
+      "id": "tv7_q018",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "phan_biet_am",
+      "difficulty": "medium",
+      "question": "Chọn từ đúng: con ___ươu (hươu → con hươu)",
+      "options": [
+        "h",
+        "kh",
+        "g",
+        "gh"
+      ],
+      "answer": "h",
+      "tags": [
+        "exam_hk2",
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv7_q019",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "dem_tieng",
+      "difficulty": "medium",
+      "question": "Câu 'Bé Hoa đang tập viết' có mấy tiếng?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "answer": "5",
+      "tags": [
+        "exam_hk2",
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv7_q020",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "chon_tu_dung",
+      "difficulty": "easy",
+      "question": "Từ nào chỉ đồ dùng ăn uống?",
+      "options": [
+        "cái bát",
+        "cái bàn",
+        "cái ghế",
+        "cái tủ"
+      ],
+      "answer": "cái bát",
+      "tags": [
+        "exam_hk2",
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv7_q021",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "sap_xep_cau",
+      "difficulty": "medium",
+      "question": "Sắp xếp: ngoan / Bé / rất / và chăm học",
+      "options": [
+        "Bé rất ngoan và chăm học",
+        "Ngoan bé rất và chăm học",
+        "Rất ngoan bé và chăm học",
+        "Và chăm học bé rất ngoan"
+      ],
+      "answer": "Bé rất ngoan và chăm học",
+      "tags": [
+        "exam_hk2",
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv7_q022",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "dien_van",
+      "difficulty": "medium",
+      "question": "Chọn vần đúng: nh___ (nghĩ về ai đó xa)",
+      "options": [
+        "ớ",
+        "ơ",
+        "ở",
+        "ô"
+      ],
+      "answer": "ớ",
+      "tags": [
+        "exam_hk2",
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv7_q023",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "hoan_thanh_cau",
+      "difficulty": "medium",
+      "question": "Điền từ: Mùa đông trời rất ___ (lạnh / nóng)",
+      "options": [
+        "lạnh",
+        "nóng"
+      ],
+      "answer": "lạnh",
+      "tags": [
+        "exam_hk2",
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv7_q024",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "tim_tu",
+      "difficulty": "hard",
+      "question": "Tìm từ chỉ hoạt động: 'Bé Lan đang đọc sách'",
+      "options": [
+        "đọc",
+        "Lan",
+        "sách",
+        "bé"
+      ],
+      "answer": "đọc",
+      "tags": [
+        "exam_hk2",
+        "van_dung"
+      ]
+    },
+    {
+      "id": "tv7_q025",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "doc_hieu",
+      "difficulty": "medium",
+      "question": "Đọc: 'Mùa thu, lá cây chuyển sang màu vàng. Gió nhẹ thổi, lá rơi đầy sân.' → Mùa thu, lá cây có màu gì?",
+      "options": [
+        "vàng",
+        "xanh",
+        "đỏ",
+        "tím"
+      ],
+      "answer": "vàng",
+      "tags": [
+        "exam_hk2",
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv7_q026",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "phan_biet_am",
+      "difficulty": "easy",
+      "question": "Chọn từ đúng: ___ắng (nắng → trời nắng)",
+      "options": [
+        "n",
+        "l"
+      ],
+      "answer": "n",
+      "tags": [
+        "exam_hk2",
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv7_q027",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "chon_tu_dung",
+      "difficulty": "medium",
+      "question": "Từ nào cùng nghĩa với 'xinh đẹp'?",
+      "options": [
+        "đẹp đẽ",
+        "xấu xí",
+        "to lớn",
+        "nhỏ bé"
+      ],
+      "answer": "đẹp đẽ",
+      "tags": [
+        "exam_hk2",
+        "thong_hieu"
+      ]
+    },
+    {
+      "id": "tv7_q028",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "dung_sai",
+      "difficulty": "easy",
+      "question": "Câu nào đúng chính tả?",
+      "options": [
+        "chăm sóc",
+        "trăm sóc",
+        "chăm xóc",
+        "trăm xóc"
+      ],
+      "answer": "chăm sóc",
+      "tags": [
+        "exam_hk2",
+        "nhan_biet"
+      ]
+    },
+    {
+      "id": "tv7_q029",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "hoan_thanh_cau",
+      "difficulty": "hard",
+      "question": "Điền từ: Em ___ rằng ngày mai sẽ tốt đẹp hơn (tin / sợ)",
+      "options": [
+        "tin",
+        "sợ"
+      ],
+      "answer": "tin",
+      "tags": [
+        "exam_hk2",
+        "van_dung"
+      ]
+    },
+    {
+      "id": "tv7_q030",
+      "chapter": "on_thi_cuoi_ky",
+      "type": "dien_van",
+      "difficulty": "easy",
+      "question": "Chọn vần đúng: v___ (cười tươi, hạnh phúc)",
+      "options": [
+        "ui",
+        "oi",
+        "ôi",
+        "ơi"
+      ],
+      "answer": "ui",
+      "tags": [
+        "exam_hk2",
+        "nhan_biet"
+      ]
+    }
+  ]
+}
