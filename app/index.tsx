@@ -14,13 +14,13 @@ import { Colors, Spacing, Radius, FontSize } from '../constants/theme'
 import { Subject, Progress } from '../lib/types'
 import { getProgress, getDailyStars, getStreak } from '../lib/storage'
 import { getChapters } from '../lib/questions'
+import { useSubject } from '../lib/SubjectContext'
 
 const DAILY_GOAL = 10
-const CHAPTER_ICONS = ['🔢', '➕', '➖', '💯', '🧮', '⏰', '🏆']
 
 export default function HomeScreen() {
   const router = useRouter()
-  const [subject, setSubject] = useState<Subject>('math')
+  const { subject, setSubject } = useSubject()
   const [progress, setProgress] = useState<Progress | null>(null)
   const [dailyStars, setDailyStars] = useState(0)
   const [streak, setStreak] = useState(0)
@@ -114,11 +114,11 @@ export default function HomeScreen() {
                 style={styles.chapterChip}
                 onPress={() =>
                   router.push(
-                    `/practice?subject=${subject}&chapter=${chapter.id}&nodeId=${chapter.id}_1`
+                    `/practice?subject=${subject}&chapter=${chapter.id}&nodeId=${chapter.id}_0`
                   )
                 }
               >
-                <Text style={styles.chapterIcon}>{CHAPTER_ICONS[idx] ?? '📖'}</Text>
+                <Text style={styles.chapterIcon}>{chapter.icon ?? '📖'}</Text>
                 <Text style={styles.chapterLabel} numberOfLines={1}>
                   {chapter.name}
                 </Text>
@@ -145,7 +145,7 @@ function GradientHeader({
       <View style={styles.headerTop}>
         <View>
           <Text style={styles.greeting}>Xin chào {'👋'}</Text>
-          <Text style={styles.name}>Bé Đức Duy!</Text>
+          <Text style={styles.name}>Bé con!</Text>
         </View>
       </View>
       <View style={styles.statsRow}>

@@ -61,6 +61,7 @@ export async function updateNodeCompletion(
   score: number,
   total: number
 ): Promise<Progress> {
+  console.log(`[Storage] updateNodeCompletion: subject=${subject}, nodeId=${nodeId}, score=${score}/${total}`)
   const progress = await getProgress(subject)
   const stars = calculateStars(score, total)
   const today = getTodayString()
@@ -96,6 +97,7 @@ export async function updateNodeCompletion(
     lastPlayedDate: today
   }
 
+  console.log(`[Storage] Saved: completedNodes keys =`, Object.keys(updatedProgress.completedNodes))
   await saveProgress(updatedProgress)
   return updatedProgress
 }

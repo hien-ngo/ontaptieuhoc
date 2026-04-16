@@ -15,6 +15,7 @@ import { TopicScoreChart } from '../components/TopicScoreChart'
 import { Colors, Spacing, Radius, FontSize } from '../constants/theme'
 import { Subject, Question } from '../lib/types'
 import { getExamQuestions } from '../lib/questions'
+import { useSubject } from '../lib/SubjectContext'
 
 type ExamPhase = 'intro' | 'inprogress' | 'finished'
 
@@ -28,7 +29,7 @@ const EXAM_QUESTIONS = 20
 const EXAM_DURATION_SECONDS = 40 * 60 // 40 minutes
 
 export default function ExamScreen() {
-  const [subject, setSubject] = useState<Subject>('math')
+  const { subject, setSubject } = useSubject()
   const [phase, setPhase] = useState<ExamPhase>('intro')
   const [questions, setQuestions] = useState<Question[]>([])
   const [currentIndex, setCurrentIndex] = useState(0)

@@ -127,7 +127,7 @@ export default function PracticeScreen() {
           const score = newAnswers.filter((a) => a.correct).length
           const timeSeconds = Math.floor((Date.now() - startTimeRef.current) / 1000)
           router.replace(
-            `/result?score=${score}&total=${questions.length}&maxCombo=${Math.max(maxCombo, newCombo)}&timeSeconds=${timeSeconds}&subject=${subject}&nodeId=${nodeId}`
+            `/result?score=${score}&total=${questions.length}&maxCombo=${Math.max(maxCombo, newCombo)}&timeSeconds=${timeSeconds}&subject=${subject}&nodeId=${nodeId}&chapter=${chapter}`
           )
         } else {
           setCurrentIndex(nextIndex)

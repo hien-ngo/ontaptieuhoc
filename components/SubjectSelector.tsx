@@ -29,7 +29,7 @@ export function SubjectSelector({ selected, onSelect }: SubjectSelectorProps) {
               {
                 height: s(56),
                 borderRadius: s(Radius.lg),
-                paddingHorizontal: s(Spacing.xl),
+                paddingHorizontal: s(Spacing.md),
               },
               isActive ? styles.tabActive : styles.tabInactive,
             ]}
@@ -45,6 +45,7 @@ export function SubjectSelector({ selected, onSelect }: SubjectSelectorProps) {
                 { fontSize: s(FontSize.lg) },
                 isActive ? styles.labelActive : styles.labelInactive,
               ]}
+              numberOfLines={1}
             >
               {tab.label}
             </Text>

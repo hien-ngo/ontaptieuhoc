@@ -65,24 +65,19 @@ export default function ResultScreen() {
   const accuracy = total > 0 ? Math.round((score / total) * 100) : 0
   const showConfetti = score / total >= 0.7
   const [saved, setSaved] = useState(false)
+  const chapter = params.chapter ?? ''
 
   useEffect(() => {
-    saveResult()
-  }, [])
-
-  const saveResult = async () => {
-    if (saved || !nodeId) return
-    try {
-      await updateNodeCompletion(subject, nodeId, score, total)
-      setSaved(true)
-    } catch (err) {
-      console.warn('Failed to save result:', err)
+    if (!saved && nodeId) {
+      updateNodeCompletion(subject, nodeId, score, total)
+        .then(() => setSaved(true))
+        .catch((err) => console.warn('Failed to save result:', err))
     }
-  }
+  }, [nodeId, subject, score, total, saved])
 
   const handleRetry = () => {
     router.replace(
-      `/practice?subject=${subject}&chapter=${nodeId.split('_')[0] ?? ''}&nodeId=${nodeId}`
+      `/practice?subject=${subject}&chapter=${chapter}&nodeId=${nodeId}`
     )
   }
 

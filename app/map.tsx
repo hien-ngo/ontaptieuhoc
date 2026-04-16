@@ -8,17 +8,17 @@ import {
   TouchableOpacity
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
-import { useRouter, useLocalSearchParams, useFocusEffect } from 'expo-router'
+import { useRouter, useFocusEffect } from 'expo-router'
 import { LearningMap } from '../components/LearningMap'
 import { Colors, Spacing, Radius, FontSize } from '../constants/theme'
 import { Subject, LessonNode } from '../lib/types'
 import { getProgress } from '../lib/storage'
 import { generateMapNodes, getChapters } from '../lib/questions'
+import { useSubject } from '../lib/SubjectContext'
 
 export default function MapScreen() {
   const router = useRouter()
-  const params = useLocalSearchParams<{ subject?: string }>()
-  const subject: Subject = (params.subject as Subject) ?? 'math'
+  const { subject } = useSubject()
 
   const [nodes, setNodes] = useState<LessonNode[]>([])
   const [refreshing, setRefreshing] = useState(false)

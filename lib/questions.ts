@@ -42,6 +42,7 @@ export function getExamQuestions(subject: Subject, count: number = 20): Question
 }
 
 export function generateMapNodes(subject: Subject, progress: Progress): LessonNode[] {
+  console.log(`[Map] generateMapNodes: completedNodes =`, Object.keys(progress.completedNodes))
   const chapters = getChapters(subject)
   const bank = getBank(subject)
   const nodes: LessonNode[] = []

@@ -3,9 +3,11 @@ import { Text } from 'react-native'
 import { Tabs } from 'expo-router'
 import { StatusBar } from 'expo-status-bar'
 import { SafeAreaProvider } from 'react-native-safe-area-context'
+import { SubjectProvider } from '../lib/SubjectContext'
 
 export default function RootLayout() {
   return (
+    <SubjectProvider>
     <SafeAreaProvider>
       <StatusBar style="auto" />
       <Tabs
@@ -68,6 +70,7 @@ export default function RootLayout() {
         />
       </Tabs>
     </SafeAreaProvider>
+    </SubjectProvider>
   )
 }
 
